@@ -1,2 +1,2 @@
 # Flask
-Flask Blog Corey Shafer
+Flask Blog
